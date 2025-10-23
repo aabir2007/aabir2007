@@ -5,16 +5,6 @@
 
 💫 About Me:
 
-🔭 I’m currently working on:
-
-🌱 3D Garden for Education – An immersive 3D learning environment built with React Three Fiber
-🩸 LifeFlow – A smart blood donation system with real-time matching, Uber-style booking & SwiftUI app
-🎮 FearRun Game – A 3D React Three Fiber survival game with FPP/TPP switch, enemy AI & immersive gameplay
-🌱 I’m currently learning: React Native, OpenCV, AI Integration, and SwiftUI
-👯 I’m looking to collaborate on: AI, ML, EdTech, Web3, and Hackathon Projects
-🤝 I’m open to help with: Web & Mobile Development, Firebase, AI Features, and Game Dev (R3F/Unity)
-
-🏆 Fun Fact: I’m a 7x Hackathon Winner & 13x Finalist
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
@@ -26,7 +16,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=anindya-mukhopadhyay&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aabir2007&theme=chartreuse-dark&point=bb9af7&line=bb9af7&area=true&area_color=bb9af7&hide_border=true" alt="GitHub Activity Graph"/>
     </td>
   </tr>
 </table>
