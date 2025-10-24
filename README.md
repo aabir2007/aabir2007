@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anindya-mukhopadhy/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anindya_iitm/)  
+[![Instagram][(https://www.instagram.com/__aabir._?igsh=MTZqcHhvMXF4aTNlag==) ]
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anindya-mukhopadhyay)
 
 ---
