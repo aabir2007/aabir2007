@@ -33,10 +33,10 @@
   </table>
   <table>
    <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anindya-mukhopadhyay&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aabir2007&theme=chartreuse_dark" alt="GitHub Summarry Card"/>
    </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anindya-mukhopadhyay&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aabir2007&theme=blue-green&layout=donut&hide_border=true" alt="Top Languages"/>
       </td>
     
   </table>
