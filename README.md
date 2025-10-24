@@ -49,7 +49,11 @@
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aabir2007&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
+
+[![](https://visitcount.itsvg.in/api?id=aabir2007&icon=5&color=0)](https://visitcount.itsvg.in)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
